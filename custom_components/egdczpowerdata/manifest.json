@@ -1,11 +1,11 @@
 {
     "domain": "egdczpowerdata",
     "name": "EGDCZ Power Data",
-    "version": "0.2",
+    "version": "0.2b",
     "documentation": "https://github.com/ondrejvysek/HomeAssistant-EGD-PowerData",
     "dependencies": [],
     "codeowners": [
-        "@ondrejvysek"
+        "@Chuck3CZ"
     ],
     "requirements": [
         "aiohttp",
