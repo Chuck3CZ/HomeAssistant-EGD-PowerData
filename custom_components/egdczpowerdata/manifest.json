@@ -1,0 +1,16 @@
+{
+    "domain": "egdczpowerdata",
+    "name": "EGDCZ Power Data",
+    "version": "0.2",
+    "documentation": "https://github.com/ondrejvysek/HomeAssistant-EGD-PowerData",
+    "dependencies": [],
+    "codeowners": [
+        "@ondrejvysek"
+    ],
+    "requirements": [
+        "aiohttp",
+        "python-dateutil"
+    ],
+    "iot_class": "cloud_polling",
+    "icon": "custom_components/egdczpowerdata/icon.svg"
+}
